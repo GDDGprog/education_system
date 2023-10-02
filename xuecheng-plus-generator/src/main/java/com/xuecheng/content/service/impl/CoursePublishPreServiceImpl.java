@@ -1,6 +1,6 @@
 package com.xuecheng.content.service.impl;
 
-import com.xuecheng.content.model.po.CoursePublishPre;
+import com.xuecheng.content.model.pojo.CoursePublishPre;
 import com.xuecheng.content.mapper.CoursePublishPreMapper;
 import com.xuecheng.content.service.CoursePublishPreService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
@@ -14,7 +14,7 @@ import org.springframework.beans.factory.annotation.Autowired;
  * 课程发布 服务实现类
  * </p>
  *
- * @author itcast
+ * @author yujian
  */
 @Slf4j
 @Service

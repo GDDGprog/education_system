@@ -1,6 +1,6 @@
 package com.xuecheng.content.service.impl;
 
-import com.xuecheng.content.model.po.CourseMarket;
+import com.xuecheng.content.model.pojo.CourseMarket;
 import com.xuecheng.content.mapper.CourseMarketMapper;
 import com.xuecheng.content.service.CourseMarketService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
@@ -14,7 +14,7 @@ import org.springframework.beans.factory.annotation.Autowired;
  * 课程营销信息 服务实现类
  * </p>
  *
- * @author itcast
+ * @author yujian
  */
 @Slf4j
 @Service

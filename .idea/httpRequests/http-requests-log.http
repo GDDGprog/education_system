@@ -1,0 +1,95 @@
+POST http://{{content_host}}/content/course/list?pageNo=1&pageSize=2
+Content-Type: application/json
+
+{
+  "auditStatus": "",
+  "courseName": "java",
+  "publishStatus": ""
+}
+
+###
+
+POST http://localhost:63040/content/course/list?pageNo=1&pageSize=2
+Content-Type: application/json
+
+{
+  "auditStatus": "",
+  "courseName": "java",
+  "publishStatus": ""
+}
+
+<> 2023-10-02T221110.200.json
+
+###
+
+POST http://localhost:63040/content/course/list?pageNo=1&pageSize=2
+Content-Type: application/json
+
+{
+  "auditStatus": "",
+  "courseName": "java",
+  "publishStatus": ""
+}
+
+<> 2023-10-02T220711.200.json
+
+###
+
+POST http://localhost:63040/content/course/list?pageNo=1&pageSize=2
+Content-Type: application/json
+
+{
+    "auditStatus": "",
+    "courseName": "java",
+    "publishStatus": ""
+}
+
+<> 2023-10-02T220434.200.json
+
+###
+
+POST http://localhost:63040/content/course/list?pageNo=1&pageSize=2
+Content-Type: text/html;charset=utf-8
+
+{
+    "auditStatus":"",
+    "courseName":"java",
+    "publishStatus":""
+}
+
+<> 2023-10-02T220343.415.json
+
+###
+
+POST http://localhost:63040/course/list?pageNo=1&pageSize=2
+Content-Type: text/html;charset=utf-8
+
+{
+    "auditStatus":"",
+    "courseName":"java",
+    "publishStatus":""
+}
+
+<> 2023-10-02T220333.404.html
+
+###
+
+POST http://localhost:63040/course/course/list?pageNo=1&pageSize=2
+Content-Type: text/html;charset=utf-8
+
+{
+    "auditStatus":"",
+    "courseName":"java",
+    "publishStatus":""
+}
+
+<> 2023-10-02T220322.404.html
+
+###
+
+POST http://localhost:63040/course/list
+
+<> 2023-10-02T220008.404.html
+
+###
+

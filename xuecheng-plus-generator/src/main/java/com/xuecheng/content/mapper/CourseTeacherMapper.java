@@ -1,6 +1,6 @@
 package com.xuecheng.content.mapper;
 
-import com.xuecheng.content.model.po.CourseTeacher;
+import com.xuecheng.content.model.pojo.CourseTeacher;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import org.springframework.stereotype.Repository;
 
@@ -9,7 +9,7 @@ import org.springframework.stereotype.Repository;
  * 课程-教师关系表 Mapper 接口
  * </p>
  *
- * @author itcast
+ * @author yujian
  */
 public interface CourseTeacherMapper extends BaseMapper<CourseTeacher> {
 

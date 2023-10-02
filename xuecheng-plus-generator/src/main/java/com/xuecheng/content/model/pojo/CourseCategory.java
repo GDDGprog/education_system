@@ -1,4 +1,4 @@
-package com.xuecheng.content.model.po;
+package com.xuecheng.content.model.pojo;
 
 import java.io.Serializable;
 import lombok.Data;
@@ -9,7 +9,7 @@ import com.baomidou.mybatisplus.annotation.TableName;
  * 课程分类
  * </p>
  *
- * @author itcast
+ * @author yujian
  */
 @Data
 @TableName("course_category")

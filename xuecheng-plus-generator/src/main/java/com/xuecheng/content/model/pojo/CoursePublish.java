@@ -1,4 +1,4 @@
-package com.xuecheng.content.model.po;
+package com.xuecheng.content.model.pojo;
 
 import java.time.LocalDateTime;
 import com.baomidou.mybatisplus.annotation.FieldFill;
@@ -12,11 +12,11 @@ import com.baomidou.mybatisplus.annotation.TableName;
  * 课程发布
  * </p>
  *
- * @author itcast
+ * @author yujian
  */
 @Data
-@TableName("course_publish_pre")
-public class CoursePublishPre implements Serializable {
+@TableName("course_publish")
+public class CoursePublish implements Serializable {
 
     private static final long serialVersionUID = 1L;
 
@@ -111,18 +111,23 @@ public class CoursePublishPre implements Serializable {
     private String teachers;
 
     /**
-     * 提交时间
+     * 发布时间
      */
     @TableField(fill = FieldFill.INSERT)
     private LocalDateTime createDate;
 
     /**
-     * 审核时间
+     * 上架时间
      */
-    private LocalDateTime auditDate;
+    private LocalDateTime onlineDate;
 
     /**
-     * 状态
+     * 下架时间
+     */
+    private LocalDateTime offlineDate;
+
+    /**
+     * 发布状态
      */
     private String status;
 

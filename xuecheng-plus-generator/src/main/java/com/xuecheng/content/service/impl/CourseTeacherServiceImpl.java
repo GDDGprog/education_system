@@ -1,6 +1,6 @@
 package com.xuecheng.content.service.impl;
 
-import com.xuecheng.content.model.po.CourseTeacher;
+import com.xuecheng.content.model.pojo.CourseTeacher;
 import com.xuecheng.content.mapper.CourseTeacherMapper;
 import com.xuecheng.content.service.CourseTeacherService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
@@ -14,7 +14,7 @@ import org.springframework.beans.factory.annotation.Autowired;
  * 课程-教师关系表 服务实现类
  * </p>
  *
- * @author itcast
+ * @author yujian
  */
 @Slf4j
 @Service

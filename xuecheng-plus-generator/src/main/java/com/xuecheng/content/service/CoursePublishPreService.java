@@ -1,6 +1,6 @@
 package com.xuecheng.content.service;
 
-import com.xuecheng.content.model.po.CoursePublishPre;
+import com.xuecheng.content.model.pojo.CoursePublishPre;
 import com.baomidou.mybatisplus.extension.service.IService;
 
 /**
@@ -8,7 +8,7 @@ import com.baomidou.mybatisplus.extension.service.IService;
  * 课程发布 服务类
  * </p>
  *
- * @author itcast
+ * @author yujian
  * @since 2023-10-02
  */
 public interface CoursePublishPreService extends IService<CoursePublishPre> {
