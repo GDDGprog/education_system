@@ -1,0 +1,238 @@
+2023-10-02 22:00:23,538 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-10-02 22:00:23,538 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-10-02 22:00:23,544 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-10-02 22:00:23,544 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-10-02 22:00:53,546 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-10-02 22:00:53,546 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-10-02 22:00:53,546 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-10-02 22:00:53,546 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-10-02 22:01:23,548 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-10-02 22:01:23,548 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-10-02 22:01:23,548 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-10-02 22:01:23,548 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-10-02 22:01:53,550 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-10-02 22:01:53,550 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-10-02 22:01:53,550 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-10-02 22:01:53,550 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-10-02 22:02:23,551 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-10-02 22:02:23,551 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-10-02 22:02:23,551 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-10-02 22:02:23,551 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-10-02 22:02:53,553 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-10-02 22:02:53,553 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-10-02 22:02:53,553 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-10-02 22:02:53,553 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-10-02 22:03:23,554 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-10-02 22:03:23,554 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-10-02 22:03:23,554 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-10-02 22:03:23,554 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-10-02 22:03:43,307 DEBUG [http-nio-63040-exec-1][LogFormatUtils.java:91] - POST "/content/course/list?pageNo=1&pageSize=2", parameters={masked}
+2023-10-02 22:03:43,307 DEBUG [http-nio-63040-exec-1][LogFormatUtils.java:91] - POST "/content/course/list?pageNo=1&pageSize=2", parameters={masked}
+2023-10-02 22:03:43,308 DEBUG [http-nio-63040-exec-1][AbstractHandlerMapping.java:415] - Mapped to com.yujian.content.api.CourseInfoController#list(PageParams, QueryCourseParamDto)
+2023-10-02 22:03:43,308 DEBUG [http-nio-63040-exec-1][AbstractHandlerMapping.java:415] - Mapped to com.yujian.content.api.CourseInfoController#list(PageParams, QueryCourseParamDto)
+2023-10-02 22:03:43,310 DEBUG [http-nio-63040-exec-1][InvocableHandlerMethod.java:174] - Could not resolve parameter [1] in public com.yujian.base.model.PageResult<com.yujian.content.model.pojo.CourseBase> com.yujian.content.api.CourseInfoController.list(com.yujian.base.model.PageParams,com.yujian.content.model.paramdto.QueryCourseParamDto): Content type 'text/html;charset=utf-8' not supported
+2023-10-02 22:03:43,310 DEBUG [http-nio-63040-exec-1][InvocableHandlerMethod.java:174] - Could not resolve parameter [1] in public com.yujian.base.model.PageResult<com.yujian.content.model.pojo.CourseBase> com.yujian.content.api.CourseInfoController.list(com.yujian.base.model.PageParams,com.yujian.content.model.paramdto.QueryCourseParamDto): Content type 'text/html;charset=utf-8' not supported
+2023-10-02 22:03:43,314 WARN [http-nio-63040-exec-1][AbstractHandlerExceptionResolver.java:199] - Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'text/html;charset=utf-8' not supported]
+2023-10-02 22:03:43,314 WARN [http-nio-63040-exec-1][AbstractHandlerExceptionResolver.java:199] - Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'text/html;charset=utf-8' not supported]
+2023-10-02 22:03:43,314 DEBUG [http-nio-63040-exec-1][FrameworkServlet.java:1131] - Completed 415 UNSUPPORTED_MEDIA_TYPE
+2023-10-02 22:03:43,314 DEBUG [http-nio-63040-exec-1][FrameworkServlet.java:1131] - Completed 415 UNSUPPORTED_MEDIA_TYPE
+2023-10-02 22:03:43,318 DEBUG [http-nio-63040-exec-1][LogFormatUtils.java:91] - "ERROR" dispatch for POST "/content/error?pageNo=1&pageSize=2", parameters={masked}
+2023-10-02 22:03:43,318 DEBUG [http-nio-63040-exec-1][LogFormatUtils.java:91] - "ERROR" dispatch for POST "/content/error?pageNo=1&pageSize=2", parameters={masked}
+2023-10-02 22:03:43,321 DEBUG [http-nio-63040-exec-1][AbstractHandlerMapping.java:415] - Mapped to org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController#error(HttpServletRequest)
+2023-10-02 22:03:43,321 DEBUG [http-nio-63040-exec-1][AbstractHandlerMapping.java:415] - Mapped to org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController#error(HttpServletRequest)
+2023-10-02 22:03:43,327 DEBUG [http-nio-63040-exec-1][AbstractMessageConverterMethodProcessor.java:255] - Using 'application/json', given [*/*] and supported [application/json, application/*+json, application/json, application/*+json]
+2023-10-02 22:03:43,327 DEBUG [http-nio-63040-exec-1][AbstractMessageConverterMethodProcessor.java:255] - Using 'application/json', given [*/*] and supported [application/json, application/*+json, application/json, application/*+json]
+2023-10-02 22:03:43,328 DEBUG [http-nio-63040-exec-1][LogFormatUtils.java:91] - Writing [{timestamp=Mon Oct 02 22:03:43 CST 2023, status=415, error=Unsupported Media Type, message=, path=/c (truncated)...]
+2023-10-02 22:03:43,328 DEBUG [http-nio-63040-exec-1][LogFormatUtils.java:91] - Writing [{timestamp=Mon Oct 02 22:03:43 CST 2023, status=415, error=Unsupported Media Type, message=, path=/c (truncated)...]
+2023-10-02 22:03:43,336 DEBUG [http-nio-63040-exec-1][FrameworkServlet.java:1127] - Exiting from "ERROR" dispatch, status 415
+2023-10-02 22:03:43,336 DEBUG [http-nio-63040-exec-1][FrameworkServlet.java:1127] - Exiting from "ERROR" dispatch, status 415
+2023-10-02 22:03:53,557 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-10-02 22:03:53,557 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-10-02 22:03:53,557 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-10-02 22:03:53,557 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-10-02 22:04:23,557 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-10-02 22:04:23,557 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-10-02 22:04:23,557 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-10-02 22:04:23,557 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-10-02 22:04:34,429 DEBUG [http-nio-63040-exec-3][LogFormatUtils.java:91] - POST "/content/course/list?pageNo=1&pageSize=2", parameters={masked}
+2023-10-02 22:04:34,429 DEBUG [http-nio-63040-exec-3][LogFormatUtils.java:91] - POST "/content/course/list?pageNo=1&pageSize=2", parameters={masked}
+2023-10-02 22:04:34,430 DEBUG [http-nio-63040-exec-3][AbstractHandlerMapping.java:415] - Mapped to com.yujian.content.api.CourseInfoController#list(PageParams, QueryCourseParamDto)
+2023-10-02 22:04:34,430 DEBUG [http-nio-63040-exec-3][AbstractHandlerMapping.java:415] - Mapped to com.yujian.content.api.CourseInfoController#list(PageParams, QueryCourseParamDto)
+2023-10-02 22:04:34,431 DEBUG [http-nio-63040-exec-3][LogFormatUtils.java:91] - Read "application/json;charset=UTF-8" to [QueryCourseParamDto(auditStatus=, courseName=java, publishStatus=)]
+2023-10-02 22:04:34,431 DEBUG [http-nio-63040-exec-3][LogFormatUtils.java:91] - Read "application/json;charset=UTF-8" to [QueryCourseParamDto(auditStatus=, courseName=java, publishStatus=)]
+2023-10-02 22:04:34,432 DEBUG [http-nio-63040-exec-3][Logger.java:49] - Creating a new SqlSession
+2023-10-02 22:04:34,432 DEBUG [http-nio-63040-exec-3][Logger.java:49] - Creating a new SqlSession
+2023-10-02 22:04:34,432 DEBUG [http-nio-63040-exec-3][Logger.java:49] - SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1b1fd4d1] was not registered for synchronization because synchronization is not active
+2023-10-02 22:04:34,432 DEBUG [http-nio-63040-exec-3][Logger.java:49] - SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1b1fd4d1] was not registered for synchronization because synchronization is not active
+2023-10-02 22:04:34,439 DEBUG [http-nio-63040-exec-3][DataSourceUtils.java:115] - Fetching JDBC Connection from DataSource
+2023-10-02 22:04:34,439 DEBUG [http-nio-63040-exec-3][DataSourceUtils.java:115] - Fetching JDBC Connection from DataSource
+2023-10-02 22:04:34,441 DEBUG [http-nio-63040-exec-3][Logger.java:49] - JDBC Connection [HikariProxyConnection@1068772262 wrapping com.mysql.cj.jdbc.ConnectionImpl@1bc7bcf] will not be managed by Spring
+2023-10-02 22:04:34,441 DEBUG [http-nio-63040-exec-3][Logger.java:49] - JDBC Connection [HikariProxyConnection@1068772262 wrapping com.mysql.cj.jdbc.ConnectionImpl@1bc7bcf] will not be managed by Spring
+2023-10-02 22:04:34,441 DEBUG [http-nio-63040-exec-3][BaseJdbcLogger.java:137] - ==>  Preparing: SELECT COUNT(*) FROM course_base WHERE (name LIKE ?)
+2023-10-02 22:04:34,441 DEBUG [http-nio-63040-exec-3][BaseJdbcLogger.java:137] - ==>  Preparing: SELECT COUNT(*) FROM course_base WHERE (name LIKE ?)
+2023-10-02 22:04:34,441 DEBUG [http-nio-63040-exec-3][BaseJdbcLogger.java:137] - ==> Parameters: %java%(String)
+2023-10-02 22:04:34,441 DEBUG [http-nio-63040-exec-3][BaseJdbcLogger.java:137] - ==> Parameters: %java%(String)
+2023-10-02 22:04:34,443 DEBUG [http-nio-63040-exec-3][BaseJdbcLogger.java:137] - <==      Total: 1
+2023-10-02 22:04:34,443 DEBUG [http-nio-63040-exec-3][BaseJdbcLogger.java:137] - <==      Total: 1
+2023-10-02 22:04:34,444 DEBUG [http-nio-63040-exec-3][BaseJdbcLogger.java:137] - ==>  Preparing: SELECT id,company_id,company_name,name,users,tags,mt,st,grade,teachmode,description,pic,create_date,change_date,create_people,change_people,audit_status,status FROM course_base WHERE (name LIKE ?) LIMIT ?
+2023-10-02 22:04:34,444 DEBUG [http-nio-63040-exec-3][BaseJdbcLogger.java:137] - ==>  Preparing: SELECT id,company_id,company_name,name,users,tags,mt,st,grade,teachmode,description,pic,create_date,change_date,create_people,change_people,audit_status,status FROM course_base WHERE (name LIKE ?) LIMIT ?
+2023-10-02 22:04:34,445 DEBUG [http-nio-63040-exec-3][BaseJdbcLogger.java:137] - ==> Parameters: %java%(String), 2(Long)
+2023-10-02 22:04:34,445 DEBUG [http-nio-63040-exec-3][BaseJdbcLogger.java:137] - ==> Parameters: %java%(String), 2(Long)
+2023-10-02 22:04:34,450 DEBUG [http-nio-63040-exec-3][BaseJdbcLogger.java:137] - <==      Total: 2
+2023-10-02 22:04:34,450 DEBUG [http-nio-63040-exec-3][BaseJdbcLogger.java:137] - <==      Total: 2
+2023-10-02 22:04:34,450 DEBUG [http-nio-63040-exec-3][Logger.java:49] - Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1b1fd4d1]
+2023-10-02 22:04:34,450 DEBUG [http-nio-63040-exec-3][Logger.java:49] - Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@1b1fd4d1]
+2023-10-02 22:04:34,451 DEBUG [http-nio-63040-exec-3][AbstractMessageConverterMethodProcessor.java:255] - Using 'application/json', given [*/*] and supported [application/json, application/*+json, application/json, application/*+json]
+2023-10-02 22:04:34,451 DEBUG [http-nio-63040-exec-3][AbstractMessageConverterMethodProcessor.java:255] - Using 'application/json', given [*/*] and supported [application/json, application/*+json, application/json, application/*+json]
+2023-10-02 22:04:34,451 DEBUG [http-nio-63040-exec-3][LogFormatUtils.java:91] - Writing [PageResult(items=[CourseBase(id=1, companyId=1232141425, companyName=, name=JAVA8/9/10新特性讲解, users=j (truncated)...]
+2023-10-02 22:04:34,451 DEBUG [http-nio-63040-exec-3][LogFormatUtils.java:91] - Writing [PageResult(items=[CourseBase(id=1, companyId=1232141425, companyName=, name=JAVA8/9/10新特性讲解, users=j (truncated)...]
+2023-10-02 22:04:34,454 DEBUG [http-nio-63040-exec-3][FrameworkServlet.java:1131] - Completed 200 OK
+2023-10-02 22:04:34,454 DEBUG [http-nio-63040-exec-3][FrameworkServlet.java:1131] - Completed 200 OK
+2023-10-02 22:04:53,559 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-10-02 22:04:53,559 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-10-02 22:04:53,559 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-10-02 22:04:53,559 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-10-02 22:05:23,560 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-10-02 22:05:23,560 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-10-02 22:05:23,560 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-10-02 22:05:23,560 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-10-02 22:05:53,563 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-10-02 22:05:53,563 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-10-02 22:05:53,563 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-10-02 22:05:53,563 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-10-02 22:06:23,565 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-10-02 22:06:23,565 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-10-02 22:06:23,565 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-10-02 22:06:23,565 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-10-02 22:06:53,566 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-10-02 22:06:53,566 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-10-02 22:06:53,566 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-10-02 22:06:53,566 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-10-02 22:07:11,593 DEBUG [http-nio-63040-exec-5][LogFormatUtils.java:91] - POST "/content/course/list?pageNo=1&pageSize=2", parameters={masked}
+2023-10-02 22:07:11,593 DEBUG [http-nio-63040-exec-5][LogFormatUtils.java:91] - POST "/content/course/list?pageNo=1&pageSize=2", parameters={masked}
+2023-10-02 22:07:11,593 DEBUG [http-nio-63040-exec-5][AbstractHandlerMapping.java:415] - Mapped to com.yujian.content.api.CourseInfoController#list(PageParams, QueryCourseParamDto)
+2023-10-02 22:07:11,593 DEBUG [http-nio-63040-exec-5][AbstractHandlerMapping.java:415] - Mapped to com.yujian.content.api.CourseInfoController#list(PageParams, QueryCourseParamDto)
+2023-10-02 22:07:11,594 DEBUG [http-nio-63040-exec-5][LogFormatUtils.java:91] - Read "application/json;charset=UTF-8" to [QueryCourseParamDto(auditStatus=, courseName=java, publishStatus=)]
+2023-10-02 22:07:11,594 DEBUG [http-nio-63040-exec-5][LogFormatUtils.java:91] - Read "application/json;charset=UTF-8" to [QueryCourseParamDto(auditStatus=, courseName=java, publishStatus=)]
+2023-10-02 22:07:11,594 DEBUG [http-nio-63040-exec-5][Logger.java:49] - Creating a new SqlSession
+2023-10-02 22:07:11,594 DEBUG [http-nio-63040-exec-5][Logger.java:49] - Creating a new SqlSession
+2023-10-02 22:07:11,594 DEBUG [http-nio-63040-exec-5][Logger.java:49] - SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@6794d01] was not registered for synchronization because synchronization is not active
+2023-10-02 22:07:11,594 DEBUG [http-nio-63040-exec-5][Logger.java:49] - SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@6794d01] was not registered for synchronization because synchronization is not active
+2023-10-02 22:07:11,597 DEBUG [http-nio-63040-exec-5][DataSourceUtils.java:115] - Fetching JDBC Connection from DataSource
+2023-10-02 22:07:11,597 DEBUG [http-nio-63040-exec-5][DataSourceUtils.java:115] - Fetching JDBC Connection from DataSource
+2023-10-02 22:07:11,598 DEBUG [http-nio-63040-exec-5][Logger.java:49] - JDBC Connection [HikariProxyConnection@1589853831 wrapping com.mysql.cj.jdbc.ConnectionImpl@1bc7bcf] will not be managed by Spring
+2023-10-02 22:07:11,598 DEBUG [http-nio-63040-exec-5][Logger.java:49] - JDBC Connection [HikariProxyConnection@1589853831 wrapping com.mysql.cj.jdbc.ConnectionImpl@1bc7bcf] will not be managed by Spring
+2023-10-02 22:07:11,599 DEBUG [http-nio-63040-exec-5][BaseJdbcLogger.java:137] - ==>  Preparing: SELECT COUNT(*) FROM course_base WHERE (name LIKE ?)
+2023-10-02 22:07:11,599 DEBUG [http-nio-63040-exec-5][BaseJdbcLogger.java:137] - ==>  Preparing: SELECT COUNT(*) FROM course_base WHERE (name LIKE ?)
+2023-10-02 22:07:11,599 DEBUG [http-nio-63040-exec-5][BaseJdbcLogger.java:137] - ==> Parameters: %java%(String)
+2023-10-02 22:07:11,599 DEBUG [http-nio-63040-exec-5][BaseJdbcLogger.java:137] - ==> Parameters: %java%(String)
+2023-10-02 22:07:11,603 DEBUG [http-nio-63040-exec-5][BaseJdbcLogger.java:137] - <==      Total: 1
+2023-10-02 22:07:11,603 DEBUG [http-nio-63040-exec-5][BaseJdbcLogger.java:137] - <==      Total: 1
+2023-10-02 22:07:11,604 DEBUG [http-nio-63040-exec-5][BaseJdbcLogger.java:137] - ==>  Preparing: SELECT id,company_id,company_name,name,users,tags,mt,st,grade,teachmode,description,pic,create_date,change_date,create_people,change_people,audit_status,status FROM course_base WHERE (name LIKE ?) LIMIT ?
+2023-10-02 22:07:11,604 DEBUG [http-nio-63040-exec-5][BaseJdbcLogger.java:137] - ==>  Preparing: SELECT id,company_id,company_name,name,users,tags,mt,st,grade,teachmode,description,pic,create_date,change_date,create_people,change_people,audit_status,status FROM course_base WHERE (name LIKE ?) LIMIT ?
+2023-10-02 22:07:11,605 DEBUG [http-nio-63040-exec-5][BaseJdbcLogger.java:137] - ==> Parameters: %java%(String), 2(Long)
+2023-10-02 22:07:11,605 DEBUG [http-nio-63040-exec-5][BaseJdbcLogger.java:137] - ==> Parameters: %java%(String), 2(Long)
+2023-10-02 22:07:11,608 DEBUG [http-nio-63040-exec-5][BaseJdbcLogger.java:137] - <==      Total: 2
+2023-10-02 22:07:11,608 DEBUG [http-nio-63040-exec-5][BaseJdbcLogger.java:137] - <==      Total: 2
+2023-10-02 22:07:11,609 DEBUG [http-nio-63040-exec-5][Logger.java:49] - Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@6794d01]
+2023-10-02 22:07:11,609 DEBUG [http-nio-63040-exec-5][Logger.java:49] - Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@6794d01]
+2023-10-02 22:07:11,609 DEBUG [http-nio-63040-exec-5][AbstractMessageConverterMethodProcessor.java:255] - Using 'application/json', given [*/*] and supported [application/json, application/*+json, application/json, application/*+json]
+2023-10-02 22:07:11,609 DEBUG [http-nio-63040-exec-5][AbstractMessageConverterMethodProcessor.java:255] - Using 'application/json', given [*/*] and supported [application/json, application/*+json, application/json, application/*+json]
+2023-10-02 22:07:11,610 DEBUG [http-nio-63040-exec-5][LogFormatUtils.java:91] - Writing [PageResult(items=[CourseBase(id=1, companyId=1232141425, companyName=, name=JAVA8/9/10新特性讲解, users=j (truncated)...]
+2023-10-02 22:07:11,610 DEBUG [http-nio-63040-exec-5][LogFormatUtils.java:91] - Writing [PageResult(items=[CourseBase(id=1, companyId=1232141425, companyName=, name=JAVA8/9/10新特性讲解, users=j (truncated)...]
+2023-10-02 22:07:11,611 DEBUG [http-nio-63040-exec-5][FrameworkServlet.java:1131] - Completed 200 OK
+2023-10-02 22:07:11,611 DEBUG [http-nio-63040-exec-5][FrameworkServlet.java:1131] - Completed 200 OK
+2023-10-02 22:07:23,567 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-10-02 22:07:23,567 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-10-02 22:07:23,567 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-10-02 22:07:23,567 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-10-02 22:07:53,569 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-10-02 22:07:53,569 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-10-02 22:07:53,569 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-10-02 22:07:53,569 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-10-02 22:08:23,572 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-10-02 22:08:23,572 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-10-02 22:08:23,572 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-10-02 22:08:23,572 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-10-02 22:08:53,573 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-10-02 22:08:53,573 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-10-02 22:08:53,573 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-10-02 22:08:53,573 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-10-02 22:09:23,574 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-10-02 22:09:23,574 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-10-02 22:09:23,574 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-10-02 22:09:23,574 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-10-02 22:09:53,576 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-10-02 22:09:53,576 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-10-02 22:09:53,576 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-10-02 22:09:53,576 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-10-02 22:10:23,577 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-10-02 22:10:23,577 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-10-02 22:10:23,577 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-10-02 22:10:23,577 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-10-02 22:10:53,578 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-10-02 22:10:53,578 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-10-02 22:10:53,578 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-10-02 22:10:53,578 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-10-02 22:11:10,297 DEBUG [http-nio-63040-exec-7][LogFormatUtils.java:91] - POST "/content/course/list?pageNo=1&pageSize=2", parameters={masked}
+2023-10-02 22:11:10,297 DEBUG [http-nio-63040-exec-7][LogFormatUtils.java:91] - POST "/content/course/list?pageNo=1&pageSize=2", parameters={masked}
+2023-10-02 22:11:10,298 DEBUG [http-nio-63040-exec-7][AbstractHandlerMapping.java:415] - Mapped to com.yujian.content.api.CourseInfoController#list(PageParams, QueryCourseParamDto)
+2023-10-02 22:11:10,298 DEBUG [http-nio-63040-exec-7][AbstractHandlerMapping.java:415] - Mapped to com.yujian.content.api.CourseInfoController#list(PageParams, QueryCourseParamDto)
+2023-10-02 22:11:10,299 DEBUG [http-nio-63040-exec-7][LogFormatUtils.java:91] - Read "application/json;charset=UTF-8" to [QueryCourseParamDto(auditStatus=, courseName=java, publishStatus=)]
+2023-10-02 22:11:10,299 DEBUG [http-nio-63040-exec-7][LogFormatUtils.java:91] - Read "application/json;charset=UTF-8" to [QueryCourseParamDto(auditStatus=, courseName=java, publishStatus=)]
+2023-10-02 22:11:10,299 DEBUG [http-nio-63040-exec-7][Logger.java:49] - Creating a new SqlSession
+2023-10-02 22:11:10,299 DEBUG [http-nio-63040-exec-7][Logger.java:49] - Creating a new SqlSession
+2023-10-02 22:11:10,300 DEBUG [http-nio-63040-exec-7][Logger.java:49] - SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@28bb60e0] was not registered for synchronization because synchronization is not active
+2023-10-02 22:11:10,300 DEBUG [http-nio-63040-exec-7][Logger.java:49] - SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@28bb60e0] was not registered for synchronization because synchronization is not active
+2023-10-02 22:11:10,302 DEBUG [http-nio-63040-exec-7][DataSourceUtils.java:115] - Fetching JDBC Connection from DataSource
+2023-10-02 22:11:10,302 DEBUG [http-nio-63040-exec-7][DataSourceUtils.java:115] - Fetching JDBC Connection from DataSource
+2023-10-02 22:11:10,303 DEBUG [http-nio-63040-exec-7][Logger.java:49] - JDBC Connection [HikariProxyConnection@645696391 wrapping com.mysql.cj.jdbc.ConnectionImpl@1bc7bcf] will not be managed by Spring
+2023-10-02 22:11:10,303 DEBUG [http-nio-63040-exec-7][Logger.java:49] - JDBC Connection [HikariProxyConnection@645696391 wrapping com.mysql.cj.jdbc.ConnectionImpl@1bc7bcf] will not be managed by Spring
+2023-10-02 22:11:10,303 DEBUG [http-nio-63040-exec-7][BaseJdbcLogger.java:137] - ==>  Preparing: SELECT COUNT(*) FROM course_base WHERE (name LIKE ?)
+2023-10-02 22:11:10,303 DEBUG [http-nio-63040-exec-7][BaseJdbcLogger.java:137] - ==>  Preparing: SELECT COUNT(*) FROM course_base WHERE (name LIKE ?)
+2023-10-02 22:11:10,304 DEBUG [http-nio-63040-exec-7][BaseJdbcLogger.java:137] - ==> Parameters: %java%(String)
+2023-10-02 22:11:10,304 DEBUG [http-nio-63040-exec-7][BaseJdbcLogger.java:137] - ==> Parameters: %java%(String)
+2023-10-02 22:11:10,306 DEBUG [http-nio-63040-exec-7][BaseJdbcLogger.java:137] - <==      Total: 1
+2023-10-02 22:11:10,306 DEBUG [http-nio-63040-exec-7][BaseJdbcLogger.java:137] - <==      Total: 1
+2023-10-02 22:11:10,307 DEBUG [http-nio-63040-exec-7][BaseJdbcLogger.java:137] - ==>  Preparing: SELECT id,company_id,company_name,name,users,tags,mt,st,grade,teachmode,description,pic,create_date,change_date,create_people,change_people,audit_status,status FROM course_base WHERE (name LIKE ?) LIMIT ?
+2023-10-02 22:11:10,307 DEBUG [http-nio-63040-exec-7][BaseJdbcLogger.java:137] - ==>  Preparing: SELECT id,company_id,company_name,name,users,tags,mt,st,grade,teachmode,description,pic,create_date,change_date,create_people,change_people,audit_status,status FROM course_base WHERE (name LIKE ?) LIMIT ?
+2023-10-02 22:11:10,307 DEBUG [http-nio-63040-exec-7][BaseJdbcLogger.java:137] - ==> Parameters: %java%(String), 2(Long)
+2023-10-02 22:11:10,307 DEBUG [http-nio-63040-exec-7][BaseJdbcLogger.java:137] - ==> Parameters: %java%(String), 2(Long)
+2023-10-02 22:11:10,310 DEBUG [http-nio-63040-exec-7][BaseJdbcLogger.java:137] - <==      Total: 2
+2023-10-02 22:11:10,310 DEBUG [http-nio-63040-exec-7][BaseJdbcLogger.java:137] - <==      Total: 2
+2023-10-02 22:11:10,310 DEBUG [http-nio-63040-exec-7][Logger.java:49] - Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@28bb60e0]
+2023-10-02 22:11:10,310 DEBUG [http-nio-63040-exec-7][Logger.java:49] - Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@28bb60e0]
+2023-10-02 22:11:10,311 DEBUG [http-nio-63040-exec-7][AbstractMessageConverterMethodProcessor.java:255] - Using 'application/json', given [*/*] and supported [application/json, application/*+json, application/json, application/*+json]
+2023-10-02 22:11:10,311 DEBUG [http-nio-63040-exec-7][AbstractMessageConverterMethodProcessor.java:255] - Using 'application/json', given [*/*] and supported [application/json, application/*+json, application/json, application/*+json]
+2023-10-02 22:11:10,311 DEBUG [http-nio-63040-exec-7][LogFormatUtils.java:91] - Writing [PageResult(items=[CourseBase(id=1, companyId=1232141425, companyName=, name=JAVA8/9/10新特性讲解, users=j (truncated)...]
+2023-10-02 22:11:10,311 DEBUG [http-nio-63040-exec-7][LogFormatUtils.java:91] - Writing [PageResult(items=[CourseBase(id=1, companyId=1232141425, companyName=, name=JAVA8/9/10新特性讲解, users=j (truncated)...]
+2023-10-02 22:11:10,312 DEBUG [http-nio-63040-exec-7][FrameworkServlet.java:1131] - Completed 200 OK
+2023-10-02 22:11:10,312 DEBUG [http-nio-63040-exec-7][FrameworkServlet.java:1131] - Completed 200 OK
+2023-10-02 22:11:23,579 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-10-02 22:11:23,579 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-10-02 22:11:23,579 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-10-02 22:11:23,579 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-10-02 22:11:53,581 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-10-02 22:11:53,581 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-10-02 22:11:53,583 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-10-02 22:11:53,583 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-10-02 22:12:23,584 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-10-02 22:12:23,584 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-10-02 22:12:23,584 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-10-02 22:12:23,584 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-10-02 22:12:53,586 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-10-02 22:12:53,586 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-10-02 22:12:53,586 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-10-02 22:12:53,586 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-10-02 22:13:23,588 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-10-02 22:13:23,588 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-10-02 22:13:23,588 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-10-02 22:13:23,588 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-10-02 22:13:53,589 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-10-02 22:13:53,589 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-10-02 22:13:53,589 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-10-02 22:13:53,589 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-10-02 22:14:23,590 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-10-02 22:14:23,590 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-10-02 22:14:23,591 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-10-02 22:14:23,591 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.

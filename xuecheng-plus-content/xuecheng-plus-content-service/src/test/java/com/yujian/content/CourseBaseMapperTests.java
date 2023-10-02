@@ -1,7 +1,6 @@
 package com.yujian.content;
 
 import com.baomidou.mybatisplus.core.conditions.query.LambdaQueryWrapper;
-import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
 import com.yujian.base.model.PageParams;
 import com.yujian.base.model.PageResult;
@@ -19,6 +18,7 @@ public class CourseBaseMapperTests {
 
     @Autowired
     private CourseBaseMapper courseBaseMapper;
+
 
     @Test
     public void TestSelectInfoMapper() {
