@@ -1,0 +1,22 @@
+server:
+  port: 63040
+  servlet:
+    context-path: /content
+# 微服务配置
+spring:
+  application:
+    name: content-api
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://192.168.200.65:3306/education_system?serverTimezone=UTC&userUnicode=true&useSSL=false&
+    username: root
+    password: mysql
+# 日志文件配置路径
+logging:
+  config: classpath:log4j2-dev.xml
+
+swagger:
+  title: "学成在线内容管理系统"
+  description: "学成在线内容管理系统接口文档"
+  version: "1.0"
+  base-package: com.yujian.content
