@@ -48,7 +48,7 @@ public class ContentCodeGenerator {
 		gc.setFileOverride(true);
 		//生成路径
 		gc.setOutputDir(System.getProperty("user.dir") + "/xuecheng-plus-generator/src/main/java");
-		gc.setAuthor("itcast");
+		gc.setAuthor("yujian");
 		gc.setOpen(false);
 		gc.setSwagger2(false);
 		gc.setServiceName("%sService");
@@ -79,7 +79,7 @@ public class ContentCodeGenerator {
 
 		pc.setServiceImpl("service.impl");
 		pc.setXml("mapper");
-		pc.setEntity("model.po");
+		pc.setEntity("model.pojo");
 		mpg.setPackageInfo(pc);
 
 
