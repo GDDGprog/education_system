@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="432fba37-5469-475e-b9d4-6a9cd141fa4c" name="Changes" comment="新的一次修改">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_11_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_11_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_11_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_11_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_11_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_11_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_25_0_jre.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_spring4all_swagger_spring_boot_starter_1_9_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_bean_validators_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_core_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_schema_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spi_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_models_1_5_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_41.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_41.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jakarta_el_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_1_6_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mapstruct_mapstruct_1_2_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_3_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_3_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_3_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_3_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_3_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_2_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_1_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_3_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/controller/TeachplanController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/controller/TeachplanMediaController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/mapper/TeachplanMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/mapper/TeachplanMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/mapper/TeachplanMediaMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/mapper/TeachplanMediaMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/model/po/Teachplan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/model/po/TeachplanMedia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/service/TeachplanMediaService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/service/TeachplanService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/service/impl/TeachplanMediaServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/content/service/impl/TeachplanServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/generator/LearningCodeGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/generator/MediaCodeGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/generator/MessageCodeGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/generator/OrderCodeGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/generator/SystemCodeGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/java/com/xuecheng/generator/UcenterCodeGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/resources/templates/default/entity.java.vm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/resources/templates/default/entity.kt.btl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/resources/templates/default/entity.kt.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/resources/templates/default/entity.kt.vm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/resources/templates/default/mapper.java.btl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/resources/templates/default/mapper.java.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/resources/templates/default/mapper.java.vm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/resources/templates/default/mapper.xml.btl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/resources/templates/default/mapper.xml.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/resources/templates/default/mapper.xml.vm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/resources/templates/default/service.java.btl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/resources/templates/default/service.java.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/resources/templates/default/service.java.vm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/resources/templates/default/serviceImpl.btl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/resources/templates/default/serviceImpl.java.btl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/resources/templates/default/serviceImpl.java.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/resources/templates/default/serviceImpl.java.vm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/resources/templates/mapper.java.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/src/main/resources/templates/serviceImpl.java.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/target/classes/com/xuecheng/generator/LearningCodeGenerator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/target/classes/com/xuecheng/generator/MediaCodeGenerator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/target/classes/com/xuecheng/generator/MessageCodeGenerator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/target/classes/com/xuecheng/generator/OrderCodeGenerator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/target/classes/com/xuecheng/generator/SystemCodeGenerator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/target/classes/com/xuecheng/generator/UcenterCodeGenerator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/target/classes/templates/default/entity.java.vm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/target/classes/templates/default/entity.kt.btl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/target/classes/templates/default/entity.kt.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/target/classes/templates/default/entity.kt.vm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/target/classes/templates/default/mapper.java.btl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/target/classes/templates/default/mapper.java.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/target/classes/templates/default/mapper.java.vm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/target/classes/templates/default/mapper.xml.btl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/target/classes/templates/default/mapper.xml.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/target/classes/templates/default/mapper.xml.vm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/target/classes/templates/default/service.java.btl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/target/classes/templates/default/service.java.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/target/classes/templates/default/service.java.vm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/target/classes/templates/default/serviceImpl.btl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/target/classes/templates/default/serviceImpl.java.btl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/target/classes/templates/default/serviceImpl.java.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/target/classes/templates/default/serviceImpl.java.vm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/target/classes/templates/entity.java.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/target/classes/templates/mapper.java.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/target/classes/templates/serviceImpl.java.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuecheng-plus-generator/xuecheng-plus-generator.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-base/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xuecheng-plus-base/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-base/xuecheng-plus-base.iml" beforeDir="false" afterPath="$PROJECT_DIR$/xuecheng-plus-base/xuecheng-plus-base.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-content/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xuecheng-plus-content/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-content/xuecheng-plus-content-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xuecheng-plus-content/xuecheng-plus-content-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-content/xuecheng-plus-content-api/src/main/java/com/yujian/XuechengPlusContentApiApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/xuecheng-plus-content/xuecheng-plus-content-api/src/main/java/com/yujian/XuechengPlusContentApiApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-content/xuecheng-plus-content-api/src/test/java/com/yujian/XuechengPlusContentApiApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-content/xuecheng-plus-content-api/xuecheng-plus-content-api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/xuecheng-plus-content/xuecheng-plus-content-api/xuecheng-plus-content-api.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-content/xuecheng-plus-content-model/src/test/java/com/yujian/XuechengPlusContentModelApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-content/xuecheng-plus-content-model/xuecheng-plus-content-model.iml" beforeDir="false" afterPath="$PROJECT_DIR$/xuecheng-plus-content/xuecheng-plus-content-model/xuecheng-plus-content-model.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-content/xuecheng-plus-content-service/src/test/java/com/yujian/XuechengPlusContentServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuecheng-plus-parent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xuecheng-plus-parent/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/software/apache-maven-3.8.2-bin/apache-maven-3.8.2" />
+        <option name="userSettingsFile" value="D:\software\apache-maven-3.8.2-bin\apache-maven-3.8.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2W9A2NcjONgVIdQr9CnXnnnDKqE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/xuecheng-plus-base/src/main/java/com/yujian/base/config" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.12360942" />
+    <property name="project.structure.side.proportion" value="0.19251825" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Desktop\project\project\education_system\xuecheng-plus-project\xuecheng-plus-base\src\main\java\com\yujian\base\config" />
+      <recent name="C:\Desktop\project\project\education_system\xuecheng-plus-project\xuecheng-plus-content\xuecheng-plus-content-api\src\main\resources" />
+      <recent name="C:\Desktop\project\project\education_system\xuecheng-plus-project\xuecheng-plus-content\xuecheng-plus-content-model\src\main\java\com\yujian\content\model\pojo" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="Application" />
+        <option value="MavenRunConfiguration" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="XuechengPlusContentApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="xuecheng-plus-content-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yujian.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yujian.XuechengPlusContentApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.XuechengPlusContentApiApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="432fba37-5469-475e-b9d4-6a9cd141fa4c" name="Changes" comment="" />
+      <created>1696134215593</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696134215593</updated>
+      <workItem from="1696134218835" duration="3150000" />
+      <workItem from="1696143652269" duration="114000" />
+      <workItem from="1696143818203" duration="9029000" />
+      <workItem from="1696208037358" duration="8975000" />
+    </task>
+    <task id="LOCAL-00001" summary="提交创建项目时的文件,提交gitignore文件">
+      <created>1696134461700</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696134461700</updated>
+    </task>
+    <task id="LOCAL-00002" summary="提交父工程和base基础工程的依赖">
+      <created>1696146537774</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1696146537774</updated>
+    </task>
+    <task id="LOCAL-00003" summary="添加了新的几个模块">
+      <created>1696177727007</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1696177727007</updated>
+    </task>
+    <task id="LOCAL-00004" summary="添加了新的几个模块">
+      <created>1696177741805</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1696177741805</updated>
+    </task>
+    <task id="LOCAL-00005" summary="添加了新的几个模块">
+      <created>1696177763956</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1696177763956</updated>
+    </task>
+    <task id="LOCAL-00006" summary="添加了新的几个模块">
+      <created>1696177774912</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1696177774912</updated>
+    </task>
+    <task id="LOCAL-00007" summary="添加了新的几个模块">
+      <created>1696177807151</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1696177807151</updated>
+    </task>
+    <task id="LOCAL-00008" summary="添加了新的几个模块">
+      <created>1696177828760</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1696177828760</updated>
+    </task>
+    <task id="LOCAL-00009" summary="添加了新的几个模块">
+      <created>1696177838930</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1696177838930</updated>
+    </task>
+    <task id="LOCAL-00010" summary="添加了新的几个模块">
+      <created>1696177876290</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1696177876290</updated>
+    </task>
+    <task id="LOCAL-00011" summary="新的一次修改">
+      <created>1696229918196</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1696229918196</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="a94d2ca8-4801-446c-9a96-5766f453bf60">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:C:/Desktop/project/project/education_system/xuecheng-plus-project/xuecheng-plus-base" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="a94d2ca8-4801-446c-9a96-5766f453bf60" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="提交创建项目时的文件,提交gitignore文件" />
+    <MESSAGE value="提交父工程和base基础工程以阿里" />
+    <MESSAGE value="提交父工程和base基础工程的依赖" />
+    <MESSAGE value="添加了新的几个模块" />
+    <MESSAGE value="新的一次修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="新的一次修改" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/xuecheng-plus-content/xuecheng-plus-content-api/src/main/java/com/yujian/content/api/CourseInfoController.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
