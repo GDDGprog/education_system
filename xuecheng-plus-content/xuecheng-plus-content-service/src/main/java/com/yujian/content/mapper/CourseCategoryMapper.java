@@ -1,7 +1,10 @@
 package com.yujian.content.mapper;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
+import com.yujian.content.model.paramdto.CourseCategoryTreeDto;
 import com.yujian.content.model.pojo.CourseCategory;
+
+import java.util.List;
 
 /**
  * <p>
@@ -11,5 +14,8 @@ import com.yujian.content.model.pojo.CourseCategory;
  * @author yujian
  */
 public interface CourseCategoryMapper extends BaseMapper<CourseCategory> {
+
+    //使用递归查询分类
+    public List<CourseCategoryTreeDto> selectTreeNodes(String id);
 
 }

@@ -2,6 +2,8 @@ package com.yujian.content.api;
 
 import com.yujian.base.model.PageParams;
 import com.yujian.base.model.PageResult;
+import com.yujian.content.model.paramdto.AddCourseDto;
+import com.yujian.content.model.paramdto.CourseBaseInfoDto;
 import com.yujian.content.model.paramdto.QueryCourseParamDto;
 import com.yujian.content.model.pojo.CourseBase;
 import com.yujian.content.service.CourseBaseService;
@@ -31,4 +33,14 @@ public class CourseInfoController {
                                        @RequestBody(required = false) @Param("queryCourseParamDto") QueryCourseParamDto queryCourseParamDto) {
         return courseBaseService.list(params,queryCourseParamDto);
     }
+
+    @ApiOperation(value = "新增课程接口")
+    @PostMapping("/course")
+    public CourseBaseInfoDto createCourse(@RequestBody AddCourseDto addCourseDto) {
+        //机构id，由于认证系统没有上线暂时硬编码
+        Long companyId = 1232141425L;
+        return courseBaseService.createCourse(companyId,addCourseDto);
+    }
+
+
 }

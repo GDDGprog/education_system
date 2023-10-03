@@ -1,3 +1,10 @@
+GET {{content_host}}/content/course-category/tree-nodes
+
+###
+GET {{system_host}}/system/dictionary/all
+Accept: application/json
+
+###
 <> 2023-10-02T220008.404.html
 ### 查询课程信息
 POST {{content_host}}/content/course/list?pageNo=1&pageSize=2
@@ -8,5 +15,28 @@ Content-Type: application/json
   "courseName": "java",
   "publishStatus": ""
 }
-
 <> 2023-10-02T220434.200.json
+
+### 创建课程
+POST {{content_host}}/content/course
+Content-Type: application/json
+
+{
+  "charge": "201001",
+  "price": 1110,
+  "originalPrice":110,
+  "qq": "22333",
+  "wechat": "223344",
+  "phone": "13333333",
+  "validDays": 365,
+  "mt": "1-1",
+  "st": "1-1-1",
+  "name": "Java_yujian_讲课",
+  "pic": "avdfdfad",
+  "teachmode": "200002",
+  "users": "初级人员",
+  "tags": "tags",
+  "grade": "204001",
+  "description": "Java_yujian_讲课Java_yujian_讲课Java_yujian_讲课Java_yujian_讲课"
+}
+

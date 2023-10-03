@@ -1,3 +1,146 @@
+POST http://localhost:63040/content/course
+Content-Type: application/json
+
+{
+  "charge": "201001",
+  "price": 1110,
+  "originalPrice":110,
+  "qq": "22333",
+  "wechat": "223344",
+  "phone": "13333333",
+  "validDays": 365,
+  "mt": "1-1",
+  "st": "1-1-1",
+  "name": "Java_yujian_讲课",
+  "pic": "avdfdfad",
+  "teachmode": "200002",
+  "users": "初级人员",
+  "tags": "tags",
+  "grade": "204001",
+  "description": "Java_yujian_讲课Java_yujian_讲课Java_yujian_讲课Java_yujian_讲课"
+}
+
+<> 2023-10-03T202019.200.json
+
+###
+
+POST http://localhost:63040/content/course
+Content-Type: application/json
+
+{
+  "charge": "201001",
+  "price": 1110,
+  "originalPrice":110,
+  "qq": "22333",
+  "wechat": "223344",
+  "phone": "13333333",
+  "validDays": 365,
+  "mt": "1-1",
+  "st": "1-1-1",
+  "name": "测试课程103",
+  "pic": "avdfdfad",
+  "teachmode": "200002",
+  "users": "初级人员",
+  "tags": "tags",
+  "grade": "204001",
+  "description": "测试课程103测试课程103测试课程103"
+}
+
+<> 2023-10-03T201719.200.json
+
+###
+
+POST http://localhost:63040/content/course
+Content-Type: application/json
+
+{
+  "charge": "201000",
+  "price": 0,
+  "originalPrice":0,
+  "qq": "22333",
+  "wechat": "223344",
+  "phone": "13333333",
+  "validDays": 365,
+  "mt": "1-1",
+  "st": "1-1-1",
+  "name": "测试课程103",
+  "pic": "",
+  "teachmode": "200002",
+  "users": "初级人员",
+  "tags": "",
+  "grade": "204001",
+  "description": ""
+}
+
+<> 2023-10-03T201537.200.json
+
+###
+
+GET http://localhost:63040/content/course-category/tree-nodes
+
+<> 2023-10-03T160304.200.json
+
+###
+
+GET http://localhost:63040/content/course-category/tree-nodes
+
+<> 2023-10-03T155932.200.json
+
+###
+
+GET http://localhost:63040/content/course-category/tree-nodes
+
+<> 2023-10-03T155656.200.json
+
+###
+
+GET http://localhost:63040/content/course-category/tree-nodes
+
+<> 2023-10-03T155651.200.json
+
+###
+
+GET http://localhost:63040/content/course-category/tree-nodes
+
+<> 2023-10-03T155626.200.json
+
+###
+
+GET http://localhost:63040/content/course-category/tree-nodes
+Content-Type: application/json
+
+<> 2023-10-03T155608.200.json
+
+###
+
+GET http://localhost:63110/system/dictionary/all
+Accept: application/json
+
+<> 2023-10-03T105559.200.json
+
+###
+
+GET http://localhost:63110/system/dictionary/all
+Accept: application/json
+
+<> 2023-10-03T105548.200.json
+
+###
+
+GET http://localhost:63110/system/dictionary/all
+Accept: application/json
+
+<> 2023-10-03T105320.500.json
+
+###
+
+GET http://localhost:63110/system/dictionary/all
+Accept: application/json
+
+<> 2023-10-03T105249.500.json
+
+###
+
 POST http://localhost:63040/content/course/list?pageNo=1&pageSize=2
 Content-Type: application/json
 
