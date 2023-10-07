@@ -1,3 +1,326 @@
+POST http://localhost:63040/content/teachplan
+Content-Type: application/json
+
+{
+  "changeDate" : null,
+  "courseId" : 1,
+  "cousePubId" : null,
+  "createDate" : null,
+  "ctlBarShow" : false,
+  "ctlEditTitle" : true,
+  "endTime" : null,
+  "grade" : "2",
+  "isPreview" : "1",
+  "mediaType" : "",
+  "orderby" : 1,
+  "parentid" : 255,
+  "pname" : "新小节名称1",
+  "startTime" : null,
+  "status" : null,
+  "teachPlanId" : 240
+}
+
+###
+
+PUT http://localhost:63040/content/course
+Content-Type: application/json
+
+{
+  "id": 40,
+  "name": "SpringBoot核心_yujian123",
+  "users": "Spring Boot初学者_yujian123",
+  "tags": "Spring项目的快速构建_yujian123",
+  "mt": "1-3",
+  "st": "1-3-2",
+  "grade": "200003",
+  "teachmode": "201001",
+  "description": "课程系统性地深度探讨 Spring Boot 核心特性，引导小伙伴对 Java 规范的重视，启发对技术原理性的思考，掌握排查问题的技能，以及学习阅读源码的方法和技巧，全面提升研发能力，进军架构师队伍。",
+  "pic": "https://cdn.educba.com/academy/wp-content/uploads/2018/08/Spring-BOOT-Interview-questions.jpg",
+  "charge": "201001",
+  "price": 0.01
+}
+
+<> 2023-10-06T114432.200.json
+
+###
+
+DELETE http://localhost:63040/content/teachplan/293
+
+<> 2023-10-06T110527.500.json
+
+###
+
+DELETE http://localhost:63040/content/teachplan/293
+
+<> 2023-10-06T110426.500.json
+
+###
+
+DELETE http://localhost:63040/content/teachplan/293
+
+<> 2023-10-06T110327.500.json
+
+###
+
+DELETE http://localhost:63040/content/teachplan/293
+
+<> 2023-10-06T110043.500.json
+
+###
+
+GET http://localhost:63040/content/teachplan/117/tree-nodes
+
+<> 2023-10-04T225255.200.json
+
+###
+
+GET http://localhost:63040/content/teachplan/74/tree-nodes
+
+<> 2023-10-04T225215.200.json
+
+###
+
+GET http://localhost:63040/content/teachplan/74/tree-nodes
+
+<> 2023-10-04T225059.404.json
+
+###
+
+PUT http://localhost:63040/content/course
+Content-Type: application/json
+
+{
+  "id": 40,
+  "name": "SpringBoot核心_yujian",
+  "users": "Spring Boot初学者_yujian",
+  "tags": "Spring项目的快速构建_yujian",
+  "mt": "1-3",
+  "st": "1-3-2",
+  "grade": "200003",
+  "teachmode": "201001",
+  "description": "课程系统性地深度探讨 Spring Boot 核心特性，引导小伙伴对 Java 规范的重视，启发对技术原理性的思考，掌握排查问题的技能，以及学习阅读源码的方法和技巧，全面提升研发能力，进军架构师队伍。",
+  "pic": "https://cdn.educba.com/academy/wp-content/uploads/2018/08/Spring-BOOT-Interview-questions.jpg",
+  "charge": "201001",
+  "price": 0.01
+}
+
+<> 2023-10-04T181045.200.json
+
+###
+
+POST http://localhost:63040/content/course
+Content-Type: application/json
+
+{
+  "charge": "201001",
+  "price": 1110,
+  "originalPrice":110,
+  "qq": "22333",
+  "wechat": "223344",
+  "phone": "13333333",
+  "validDays": 365,
+  "mt": "",
+  "st": "1-1-1",
+  "name": "测试测试java,java测试",
+  "pic": "avdfdfad",
+  "teachmode": "200002",
+  "users": "初级人员",
+  "tags": "tags",
+  "grade": "204001",
+  "description": "Java_yujian_讲课Java_yujian_讲课Java_yujian_讲课Java_yujian_讲课"
+}
+
+<> 2023-10-04T171038.200.json
+
+###
+
+POST http://localhost:63040/content/course
+Content-Type: application/json
+
+{
+  "charge": "201001",
+  "price": 1110,
+  "originalPrice":110,
+  "qq": "22333",
+  "wechat": "223344",
+  "phone": "13333333",
+  "validDays": 365,
+  "mt": "1-1",
+  "st": "1-1-1",
+  "name": "测试测试java,java测试",
+  "pic": "avdfdfad",
+  "teachmode": "200002",
+  "users": "初级人员",
+  "tags": "tags",
+  "grade": "204001",
+  "description": "Java_yujian_讲课Java_yujian_讲课Java_yujian_讲课Java_yujian_讲课"
+}
+
+<> 2023-10-04T165731.200.json
+
+###
+
+POST http://localhost:63040/content/course
+Content-Type: application/json
+
+{
+  "charge": "201001",
+  "price": 1110,
+  "originalPrice":110,
+  "qq": "22333",
+  "wechat": "223344",
+  "phone": "13333333",
+  "validDays": 365,
+  "mt": "1-1",
+  "st": "1-1-1",
+  "name": "",
+  "pic": "avdfdfad",
+  "teachmode": "200002",
+  "users": "初级人员",
+  "tags": "tags",
+  "grade": "204001",
+  "description": "Java_yujian_讲课Java_yujian_讲课Java_yujian_讲课Java_yujian_讲课"
+}
+
+<> 2023-10-04T165715.500.json
+
+###
+
+GET http://localhost:63040/content/course/2
+Content-Type: application/json
+
+<> 2023-10-04T165640.200.json
+
+###
+
+GET http://localhost:63040/content/course/2
+Content-Type: application/json
+
+<> 2023-10-04T131150.200.json
+
+###
+
+GET http://localhost:63040/content/course/40
+Content-Type: application/json
+
+<> 2023-10-04T131141.200.json
+
+###
+
+GET http://localhost:63040/content/course/1
+Content-Type: application/json
+
+<> 2023-10-04T130940.200.json
+
+###
+
+GET http://localhost:63040/content/course/1
+Content-Type: application/json
+
+<> 2023-10-04T130914.200.json
+
+###
+
+GET http://localhost:63040/content/course/1
+Content-Type: application/json
+
+<> 2023-10-04T121835.200.json
+
+###
+
+GET http://localhost:63040/content/course/1
+Content-Type: application/json
+
+###
+
+GET http://localhost:63040/content/course/40
+Content-Type: application/json
+
+###
+
+GET http://localhost:63040/content/course/40
+Content-Type: application/json
+
+###
+
+POST http://localhost:63040/content/course
+Content-Type: application/json
+
+{
+  "charge": "201001",
+  "price": 1110,
+  "originalPrice":110,
+  "qq": "22333",
+  "wechat": "223344",
+  "phone": "13333333",
+  "validDays": 365,
+  "mt": "1-1",
+  "st": "1-1-1",
+  "name": "",
+  "pic": "avdfdfad",
+  "teachmode": "200002",
+  "users": "",
+  "tags": "tags",
+  "grade": "204001",
+  "description": "Java_yujian_讲课Java_yujian_讲课Java_yujian_讲课Java_yujian_讲课"
+}
+
+<> 2023-10-04T111832.500.json
+
+###
+
+POST http://localhost:63040/content/course
+Content-Type: application/json
+
+{
+  "charge": "201001",
+  "price": 1110,
+  "originalPrice":110,
+  "qq": "22333",
+  "wechat": "223344",
+  "phone": "13333333",
+  "validDays": 365,
+  "mt": "1-1",
+  "st": "1-1-1",
+  "name": "",
+  "pic": "avdfdfad",
+  "teachmode": "200002",
+  "users": "初级人员",
+  "tags": "tags",
+  "grade": "204001",
+  "description": "Java_yujian_讲课Java_yujian_讲课Java_yujian_讲课Java_yujian_讲课"
+}
+
+<> 2023-10-04T111818.500.json
+
+###
+
+POST http://localhost:63040/content/course
+Content-Type: application/json
+
+{
+  "charge": "201001",
+  "price": 1110,
+  "originalPrice":110,
+  "qq": "22333",
+  "wechat": "223344",
+  "phone": "13333333",
+  "validDays": 365,
+  "mt": "1-1",
+  "st": "1-1-1",
+  "name": "",
+  "pic": "avdfdfad",
+  "teachmode": "200002",
+  "users": "初级人员",
+  "tags": "tags",
+  "grade": "204001",
+  "description": "Java_yujian_讲课Java_yujian_讲课Java_yujian_讲课Java_yujian_讲课"
+}
+
+<> 2023-10-04T111208.500.json
+
+###
+
 POST http://localhost:63040/content/course
 Content-Type: application/json
 

@@ -27,4 +27,14 @@
         select * from t1
         order by t1.id
     </select>
+
+    <select id="selectCourseOneCategory" resultType="string" parameterType="string">
+        select name from course_category
+        where id = #{id}
+    </select>
+
+    <select id="selectCourseTwoCategory" resultType="string" parameterType="string">
+        select name from course_category
+        where id = #{id}
+    </select>
 </mapper>

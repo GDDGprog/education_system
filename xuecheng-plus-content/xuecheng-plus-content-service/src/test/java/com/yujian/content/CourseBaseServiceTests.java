@@ -30,4 +30,10 @@ public class CourseBaseServiceTests {
         PageResult<CourseBase> list = courseBaseService.list(pageParams, queryCourseParamDto);
         System.out.println(list);
     }
+
+    @Test
+    public void getCourseBaseById() {
+        CourseBase courseBase = courseBaseService.getCourseBaseById(1L);
+        System.out.println(courseBase);
+    }
 }

@@ -1,0 +1,186 @@
+2023-10-04 12:00:09,514 INFO [http-nio-63040-exec-1][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-10-04 12:00:09,514 INFO [http-nio-63040-exec-1][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-10-04 12:00:09,537 INFO [http-nio-63040-exec-1][FrameworkServlet.java:525] - Initializing Servlet 'dispatcherServlet'
+2023-10-04 12:00:09,537 INFO [http-nio-63040-exec-1][FrameworkServlet.java:525] - Initializing Servlet 'dispatcherServlet'
+2023-10-04 12:00:09,538 DEBUG [http-nio-63040-exec-1][DispatcherServlet.java:526] - Detected StandardServletMultipartResolver
+2023-10-04 12:00:09,538 DEBUG [http-nio-63040-exec-1][DispatcherServlet.java:526] - Detected StandardServletMultipartResolver
+2023-10-04 12:00:09,549 DEBUG [http-nio-63040-exec-1][FrameworkServlet.java:542] - enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+2023-10-04 12:00:09,549 DEBUG [http-nio-63040-exec-1][FrameworkServlet.java:542] - enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+2023-10-04 12:00:09,549 INFO [http-nio-63040-exec-1][FrameworkServlet.java:547] - Completed initialization in 11 ms
+2023-10-04 12:00:09,549 INFO [http-nio-63040-exec-1][FrameworkServlet.java:547] - Completed initialization in 11 ms
+2023-10-04 12:00:09,567 DEBUG [http-nio-63040-exec-1][LogFormatUtils.java:91] - POST "/content/course/list?pageNo=1&pageSize=10", parameters={masked}
+2023-10-04 12:00:09,567 DEBUG [http-nio-63040-exec-1][LogFormatUtils.java:91] - POST "/content/course/list?pageNo=1&pageSize=10", parameters={masked}
+2023-10-04 12:00:09,574 DEBUG [http-nio-63040-exec-1][AbstractHandlerMapping.java:415] - Mapped to com.yujian.content.api.CourseInfoController#list(PageParams, QueryCourseParamDto)
+2023-10-04 12:00:09,574 DEBUG [http-nio-63040-exec-1][AbstractHandlerMapping.java:415] - Mapped to com.yujian.content.api.CourseInfoController#list(PageParams, QueryCourseParamDto)
+2023-10-04 12:00:09,673 DEBUG [http-nio-63040-exec-1][LogFormatUtils.java:91] - Read "application/json;charset=utf-8" to [QueryCourseParamDto(auditStatus=, courseName=, publishStatus=null)]
+2023-10-04 12:00:09,673 DEBUG [http-nio-63040-exec-1][LogFormatUtils.java:91] - Read "application/json;charset=utf-8" to [QueryCourseParamDto(auditStatus=, courseName=, publishStatus=null)]
+2023-10-04 12:00:09,713 DEBUG [http-nio-63040-exec-1][Logger.java:49] - Creating a new SqlSession
+2023-10-04 12:00:09,713 DEBUG [http-nio-63040-exec-1][Logger.java:49] - Creating a new SqlSession
+2023-10-04 12:00:09,722 DEBUG [http-nio-63040-exec-1][Logger.java:49] - SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@4fd3c931] was not registered for synchronization because synchronization is not active
+2023-10-04 12:00:09,722 DEBUG [http-nio-63040-exec-1][Logger.java:49] - SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@4fd3c931] was not registered for synchronization because synchronization is not active
+2023-10-04 12:00:09,847 DEBUG [http-nio-63040-exec-1][DataSourceUtils.java:115] - Fetching JDBC Connection from DataSource
+2023-10-04 12:00:09,847 DEBUG [http-nio-63040-exec-1][DataSourceUtils.java:115] - Fetching JDBC Connection from DataSource
+2023-10-04 12:00:09,848 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1066] - HikariPool-1 - configuration:
+2023-10-04 12:00:09,848 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1066] - HikariPool-1 - configuration:
+2023-10-04 12:00:09,851 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1098] - allowPoolSuspension.............false
+2023-10-04 12:00:09,851 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1098] - allowPoolSuspension.............false
+2023-10-04 12:00:09,852 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1098] - autoCommit......................true
+2023-10-04 12:00:09,852 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1098] - autoCommit......................true
+2023-10-04 12:00:09,853 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1098] - catalog.........................none
+2023-10-04 12:00:09,853 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1098] - catalog.........................none
+2023-10-04 12:00:09,853 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1098] - connectionInitSql...............none
+2023-10-04 12:00:09,853 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1098] - connectionInitSql...............none
+2023-10-04 12:00:09,853 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1098] - connectionTestQuery.............none
+2023-10-04 12:00:09,853 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1098] - connectionTestQuery.............none
+2023-10-04 12:00:09,854 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1098] - connectionTimeout...............30000
+2023-10-04 12:00:09,854 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1098] - connectionTimeout...............30000
+2023-10-04 12:00:09,854 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1098] - dataSource......................none
+2023-10-04 12:00:09,854 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1098] - dataSource......................none
+2023-10-04 12:00:09,855 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1098] - dataSourceClassName.............none
+2023-10-04 12:00:09,855 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1098] - dataSourceClassName.............none
+2023-10-04 12:00:09,855 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1098] - dataSourceJNDI..................none
+2023-10-04 12:00:09,855 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1098] - dataSourceJNDI..................none
+2023-10-04 12:00:09,856 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1098] - dataSourceProperties............{password=<masked>}
+2023-10-04 12:00:09,856 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1098] - dataSourceProperties............{password=<masked>}
+2023-10-04 12:00:09,857 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1098] - driverClassName................."com.mysql.cj.jdbc.Driver"
+2023-10-04 12:00:09,857 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1098] - driverClassName................."com.mysql.cj.jdbc.Driver"
+2023-10-04 12:00:09,857 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1098] - exceptionOverrideClassName......none
+2023-10-04 12:00:09,857 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1098] - exceptionOverrideClassName......none
+2023-10-04 12:00:09,858 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1098] - healthCheckProperties...........{}
+2023-10-04 12:00:09,858 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1098] - healthCheckProperties...........{}
+2023-10-04 12:00:09,859 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1098] - healthCheckRegistry.............none
+2023-10-04 12:00:09,859 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1098] - healthCheckRegistry.............none
+2023-10-04 12:00:09,860 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1098] - idleTimeout.....................600000
+2023-10-04 12:00:09,860 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1098] - idleTimeout.....................600000
+2023-10-04 12:00:09,860 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1098] - initializationFailTimeout.......1
+2023-10-04 12:00:09,860 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1098] - initializationFailTimeout.......1
+2023-10-04 12:00:09,861 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1098] - isolateInternalQueries..........false
+2023-10-04 12:00:09,861 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1098] - isolateInternalQueries..........false
+2023-10-04 12:00:09,861 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1098] - jdbcUrl.........................jdbc:mysql://192.168.200.65:3306/education_system?serverTimezone=UTC&userUnicode=true&useSSL=false&
+2023-10-04 12:00:09,861 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1098] - jdbcUrl.........................jdbc:mysql://192.168.200.65:3306/education_system?serverTimezone=UTC&userUnicode=true&useSSL=false&
+2023-10-04 12:00:09,861 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1098] - leakDetectionThreshold..........0
+2023-10-04 12:00:09,861 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1098] - leakDetectionThreshold..........0
+2023-10-04 12:00:09,862 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1098] - maxLifetime.....................1800000
+2023-10-04 12:00:09,862 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1098] - maxLifetime.....................1800000
+2023-10-04 12:00:09,862 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1098] - maximumPoolSize.................10
+2023-10-04 12:00:09,862 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1098] - maximumPoolSize.................10
+2023-10-04 12:00:09,862 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1098] - metricRegistry..................none
+2023-10-04 12:00:09,862 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1098] - metricRegistry..................none
+2023-10-04 12:00:09,862 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1098] - metricsTrackerFactory...........none
+2023-10-04 12:00:09,862 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1098] - metricsTrackerFactory...........none
+2023-10-04 12:00:09,863 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1098] - minimumIdle.....................10
+2023-10-04 12:00:09,863 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1098] - minimumIdle.....................10
+2023-10-04 12:00:09,863 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1098] - password........................<masked>
+2023-10-04 12:00:09,863 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1098] - password........................<masked>
+2023-10-04 12:00:09,863 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1098] - poolName........................"HikariPool-1"
+2023-10-04 12:00:09,863 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1098] - poolName........................"HikariPool-1"
+2023-10-04 12:00:09,864 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1098] - readOnly........................false
+2023-10-04 12:00:09,864 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1098] - readOnly........................false
+2023-10-04 12:00:09,864 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1098] - registerMbeans..................false
+2023-10-04 12:00:09,864 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1098] - registerMbeans..................false
+2023-10-04 12:00:09,865 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1098] - scheduledExecutor...............none
+2023-10-04 12:00:09,865 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1098] - scheduledExecutor...............none
+2023-10-04 12:00:09,865 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1098] - schema..........................none
+2023-10-04 12:00:09,865 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1098] - schema..........................none
+2023-10-04 12:00:09,865 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1098] - threadFactory...................internal
+2023-10-04 12:00:09,865 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1098] - threadFactory...................internal
+2023-10-04 12:00:09,865 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1098] - transactionIsolation............default
+2023-10-04 12:00:09,865 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1098] - transactionIsolation............default
+2023-10-04 12:00:09,866 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1098] - username........................"root"
+2023-10-04 12:00:09,866 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1098] - username........................"root"
+2023-10-04 12:00:09,866 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1098] - validationTimeout...............5000
+2023-10-04 12:00:09,866 DEBUG [http-nio-63040-exec-1][HikariConfig.java:1098] - validationTimeout...............5000
+2023-10-04 12:00:09,867 INFO [http-nio-63040-exec-1][HikariDataSource.java:110] - HikariPool-1 - Starting...
+2023-10-04 12:00:09,867 INFO [http-nio-63040-exec-1][HikariDataSource.java:110] - HikariPool-1 - Starting...
+2023-10-04 12:00:10,131 DEBUG [http-nio-63040-exec-1][HikariPool.java:564] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2d443adf
+2023-10-04 12:00:10,131 DEBUG [http-nio-63040-exec-1][HikariPool.java:564] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2d443adf
+2023-10-04 12:00:10,135 INFO [http-nio-63040-exec-1][HikariDataSource.java:123] - HikariPool-1 - Start completed.
+2023-10-04 12:00:10,135 INFO [http-nio-63040-exec-1][HikariDataSource.java:123] - HikariPool-1 - Start completed.
+2023-10-04 12:00:10,141 DEBUG [http-nio-63040-exec-1][Logger.java:49] - JDBC Connection [HikariProxyConnection@503384384 wrapping com.mysql.cj.jdbc.ConnectionImpl@2d443adf] will not be managed by Spring
+2023-10-04 12:00:10,141 DEBUG [http-nio-63040-exec-1][Logger.java:49] - JDBC Connection [HikariProxyConnection@503384384 wrapping com.mysql.cj.jdbc.ConnectionImpl@2d443adf] will not be managed by Spring
+2023-10-04 12:00:10,149 DEBUG [http-nio-63040-exec-1][BaseJdbcLogger.java:137] - ==>  Preparing: SELECT COUNT(*) FROM course_base
+2023-10-04 12:00:10,149 DEBUG [http-nio-63040-exec-1][BaseJdbcLogger.java:137] - ==>  Preparing: SELECT COUNT(*) FROM course_base
+2023-10-04 12:00:10,184 DEBUG [http-nio-63040-exec-1][BaseJdbcLogger.java:137] - ==> Parameters: 
+2023-10-04 12:00:10,184 DEBUG [http-nio-63040-exec-1][BaseJdbcLogger.java:137] - ==> Parameters: 
+2023-10-04 12:00:10,220 DEBUG [http-nio-63040-exec-1][BaseJdbcLogger.java:137] - <==      Total: 1
+2023-10-04 12:00:10,220 DEBUG [http-nio-63040-exec-1][BaseJdbcLogger.java:137] - <==      Total: 1
+2023-10-04 12:00:10,236 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=1, active=1, idle=0, waiting=0)
+2023-10-04 12:00:10,236 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=1, active=1, idle=0, waiting=0)
+2023-10-04 12:00:10,236 DEBUG [http-nio-63040-exec-1][BaseJdbcLogger.java:137] - ==>  Preparing: SELECT id,company_id,company_name,name,users,tags,mt,st,grade,teachmode,description,pic,create_date,change_date,create_people,change_people,audit_status,status FROM course_base LIMIT ?
+2023-10-04 12:00:10,236 DEBUG [http-nio-63040-exec-1][BaseJdbcLogger.java:137] - ==>  Preparing: SELECT id,company_id,company_name,name,users,tags,mt,st,grade,teachmode,description,pic,create_date,change_date,create_people,change_people,audit_status,status FROM course_base LIMIT ?
+2023-10-04 12:00:10,238 DEBUG [http-nio-63040-exec-1][BaseJdbcLogger.java:137] - ==> Parameters: 10(Long)
+2023-10-04 12:00:10,238 DEBUG [http-nio-63040-exec-1][BaseJdbcLogger.java:137] - ==> Parameters: 10(Long)
+2023-10-04 12:00:10,261 DEBUG [http-nio-63040-exec-1][BaseJdbcLogger.java:137] - <==      Total: 10
+2023-10-04 12:00:10,261 DEBUG [http-nio-63040-exec-1][BaseJdbcLogger.java:137] - <==      Total: 10
+2023-10-04 12:00:10,263 DEBUG [http-nio-63040-exec-1][Logger.java:49] - Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@4fd3c931]
+2023-10-04 12:00:10,263 DEBUG [http-nio-63040-exec-1][Logger.java:49] - Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@4fd3c931]
+2023-10-04 12:00:10,263 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7a51b2e6
+2023-10-04 12:00:10,263 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7a51b2e6
+2023-10-04 12:00:10,280 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3b6cb8dd
+2023-10-04 12:00:10,280 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3b6cb8dd
+2023-10-04 12:00:10,299 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@a1d8007
+2023-10-04 12:00:10,299 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@a1d8007
+2023-10-04 12:00:10,305 DEBUG [http-nio-63040-exec-1][AbstractMessageConverterMethodProcessor.java:255] - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json]
+2023-10-04 12:00:10,305 DEBUG [http-nio-63040-exec-1][AbstractMessageConverterMethodProcessor.java:255] - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json]
+2023-10-04 12:00:10,307 DEBUG [http-nio-63040-exec-1][LogFormatUtils.java:91] - Writing [PageResult(items=[CourseBase(id=1, companyId=1232141425, companyName=, name=JAVA8/9/10新特性讲解, users=j (truncated)...]
+2023-10-04 12:00:10,307 DEBUG [http-nio-63040-exec-1][LogFormatUtils.java:91] - Writing [PageResult(items=[CourseBase(id=1, companyId=1232141425, companyName=, name=JAVA8/9/10新特性讲解, users=j (truncated)...]
+2023-10-04 12:00:10,315 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5b434792
+2023-10-04 12:00:10,315 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5b434792
+2023-10-04 12:00:10,333 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2651687d
+2023-10-04 12:00:10,333 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2651687d
+2023-10-04 12:00:10,366 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5f0df868
+2023-10-04 12:00:10,366 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5f0df868
+2023-10-04 12:00:10,374 DEBUG [http-nio-63040-exec-1][FrameworkServlet.java:1131] - Completed 200 OK
+2023-10-04 12:00:10,374 DEBUG [http-nio-63040-exec-1][FrameworkServlet.java:1131] - Completed 200 OK
+2023-10-04 12:00:10,400 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@60883a99
+2023-10-04 12:00:10,400 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@60883a99
+2023-10-04 12:00:10,425 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@65890277
+2023-10-04 12:00:10,425 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@65890277
+2023-10-04 12:00:10,443 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@203be211
+2023-10-04 12:00:10,443 DEBUG [HikariPool-1 connection adder][HikariPool.java:728] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@203be211
+2023-10-04 12:00:10,444 DEBUG [HikariPool-1 connection adder][HikariPool.java:421] - HikariPool-1 - After adding stats (total=10, active=0, idle=10, waiting=0)
+2023-10-04 12:00:10,444 DEBUG [HikariPool-1 connection adder][HikariPool.java:421] - HikariPool-1 - After adding stats (total=10, active=0, idle=10, waiting=0)
+2023-10-04 12:00:14,191 DEBUG [http-nio-63040-exec-2][LogFormatUtils.java:91] - GET "/content/course-category/tree-nodes", parameters={}
+2023-10-04 12:00:14,191 DEBUG [http-nio-63040-exec-2][LogFormatUtils.java:91] - GET "/content/course-category/tree-nodes", parameters={}
+2023-10-04 12:00:14,192 DEBUG [http-nio-63040-exec-2][AbstractHandlerMapping.java:415] - Mapped to com.yujian.content.api.CourseCategoryController#queryTreeNodes(String)
+2023-10-04 12:00:14,192 DEBUG [http-nio-63040-exec-2][AbstractHandlerMapping.java:415] - Mapped to com.yujian.content.api.CourseCategoryController#queryTreeNodes(String)
+2023-10-04 12:00:14,193 DEBUG [http-nio-63040-exec-3][LogFormatUtils.java:91] - GET "/content/course/28", parameters={}
+2023-10-04 12:00:14,193 DEBUG [http-nio-63040-exec-3][LogFormatUtils.java:91] - GET "/content/course/28", parameters={}
+2023-10-04 12:00:14,196 DEBUG [http-nio-63040-exec-2][Logger.java:49] - Creating a new SqlSession
+2023-10-04 12:00:14,196 DEBUG [http-nio-63040-exec-2][Logger.java:49] - Creating a new SqlSession
+2023-10-04 12:00:14,197 DEBUG [http-nio-63040-exec-2][Logger.java:49] - SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7eb1a92e] was not registered for synchronization because synchronization is not active
+2023-10-04 12:00:14,197 DEBUG [http-nio-63040-exec-2][Logger.java:49] - SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7eb1a92e] was not registered for synchronization because synchronization is not active
+2023-10-04 12:00:14,198 DEBUG [http-nio-63040-exec-2][DataSourceUtils.java:115] - Fetching JDBC Connection from DataSource
+2023-10-04 12:00:14,198 DEBUG [http-nio-63040-exec-2][DataSourceUtils.java:115] - Fetching JDBC Connection from DataSource
+2023-10-04 12:00:14,199 DEBUG [http-nio-63040-exec-3][AbstractHandlerMapping.java:415] - Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2023-10-04 12:00:14,199 DEBUG [http-nio-63040-exec-3][AbstractHandlerMapping.java:415] - Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2023-10-04 12:00:14,201 DEBUG [http-nio-63040-exec-2][Logger.java:49] - JDBC Connection [HikariProxyConnection@924328324 wrapping com.mysql.cj.jdbc.ConnectionImpl@2d443adf] will not be managed by Spring
+2023-10-04 12:00:14,201 DEBUG [http-nio-63040-exec-2][Logger.java:49] - JDBC Connection [HikariProxyConnection@924328324 wrapping com.mysql.cj.jdbc.ConnectionImpl@2d443adf] will not be managed by Spring
+2023-10-04 12:00:14,201 DEBUG [http-nio-63040-exec-2][BaseJdbcLogger.java:137] - ==>  Preparing: with recursive t1 as( select * from course_category where id=? union all select t2.* from course_category t2 inner join t1 on t1.id = t2.parentid ) select * from t1 order by t1.id
+2023-10-04 12:00:14,201 DEBUG [http-nio-63040-exec-2][BaseJdbcLogger.java:137] - ==>  Preparing: with recursive t1 as( select * from course_category where id=? union all select t2.* from course_category t2 inner join t1 on t1.id = t2.parentid ) select * from t1 order by t1.id
+2023-10-04 12:00:14,203 DEBUG [http-nio-63040-exec-2][BaseJdbcLogger.java:137] - ==> Parameters: 1(String)
+2023-10-04 12:00:14,203 DEBUG [http-nio-63040-exec-2][BaseJdbcLogger.java:137] - ==> Parameters: 1(String)
+2023-10-04 12:00:14,205 DEBUG [http-nio-63040-exec-3][ResourceHttpRequestHandler.java:487] - Resource not found
+2023-10-04 12:00:14,205 DEBUG [http-nio-63040-exec-3][ResourceHttpRequestHandler.java:487] - Resource not found
+2023-10-04 12:00:14,206 DEBUG [http-nio-63040-exec-3][FrameworkServlet.java:1131] - Completed 404 NOT_FOUND
+2023-10-04 12:00:14,206 DEBUG [http-nio-63040-exec-3][FrameworkServlet.java:1131] - Completed 404 NOT_FOUND
+2023-10-04 12:00:14,211 DEBUG [http-nio-63040-exec-3][LogFormatUtils.java:91] - "ERROR" dispatch for GET "/content/error", parameters={}
+2023-10-04 12:00:14,211 DEBUG [http-nio-63040-exec-3][LogFormatUtils.java:91] - "ERROR" dispatch for GET "/content/error", parameters={}
+2023-10-04 12:00:14,213 DEBUG [http-nio-63040-exec-3][AbstractHandlerMapping.java:415] - Mapped to org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController#error(HttpServletRequest)
+2023-10-04 12:00:14,213 DEBUG [http-nio-63040-exec-3][AbstractHandlerMapping.java:415] - Mapped to org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController#error(HttpServletRequest)
+2023-10-04 12:00:14,223 DEBUG [http-nio-63040-exec-3][AbstractMessageConverterMethodProcessor.java:255] - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json]
+2023-10-04 12:00:14,223 DEBUG [http-nio-63040-exec-3][AbstractMessageConverterMethodProcessor.java:255] - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json]
+2023-10-04 12:00:14,224 DEBUG [http-nio-63040-exec-3][LogFormatUtils.java:91] - Writing [{timestamp=Wed Oct 04 12:00:14 CST 2023, status=404, error=Not Found, message=, path=/content/course (truncated)...]
+2023-10-04 12:00:14,224 DEBUG [http-nio-63040-exec-3][LogFormatUtils.java:91] - Writing [{timestamp=Wed Oct 04 12:00:14 CST 2023, status=404, error=Not Found, message=, path=/content/course (truncated)...]
+2023-10-04 12:00:14,227 DEBUG [http-nio-63040-exec-2][BaseJdbcLogger.java:137] - <==      Total: 144
+2023-10-04 12:00:14,227 DEBUG [http-nio-63040-exec-2][BaseJdbcLogger.java:137] - <==      Total: 144
+2023-10-04 12:00:14,227 DEBUG [http-nio-63040-exec-2][Logger.java:49] - Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7eb1a92e]
+2023-10-04 12:00:14,227 DEBUG [http-nio-63040-exec-2][Logger.java:49] - Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7eb1a92e]
+2023-10-04 12:00:14,231 DEBUG [http-nio-63040-exec-2][AbstractMessageConverterMethodProcessor.java:255] - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json]
+2023-10-04 12:00:14,231 DEBUG [http-nio-63040-exec-2][AbstractMessageConverterMethodProcessor.java:255] - Using 'application/json', given [application/json, text/plain, */*] and supported [application/json, application/*+json, application/json, application/*+json]
+2023-10-04 12:00:14,231 DEBUG [http-nio-63040-exec-2][LogFormatUtils.java:91] - Writing [[CourseCategoryTreeDto(childrenTreeNodes=[CourseCategoryTreeDto(childrenTreeNodes=null), CourseCateg (truncated)...]
+2023-10-04 12:00:14,231 DEBUG [http-nio-63040-exec-2][LogFormatUtils.java:91] - Writing [[CourseCategoryTreeDto(childrenTreeNodes=[CourseCategoryTreeDto(childrenTreeNodes=null), CourseCateg (truncated)...]
+2023-10-04 12:00:14,234 DEBUG [http-nio-63040-exec-3][FrameworkServlet.java:1127] - Exiting from "ERROR" dispatch, status 404
+2023-10-04 12:00:14,234 DEBUG [http-nio-63040-exec-3][FrameworkServlet.java:1127] - Exiting from "ERROR" dispatch, status 404
+2023-10-04 12:00:14,243 DEBUG [http-nio-63040-exec-2][FrameworkServlet.java:1131] - Completed 200 OK
+2023-10-04 12:00:14,243 DEBUG [http-nio-63040-exec-2][FrameworkServlet.java:1131] - Completed 200 OK

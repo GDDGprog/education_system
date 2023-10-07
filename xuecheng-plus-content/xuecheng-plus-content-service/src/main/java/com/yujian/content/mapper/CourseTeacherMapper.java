@@ -2,6 +2,7 @@ package com.yujian.content.mapper;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import com.yujian.content.model.pojo.CourseTeacher;
+import org.apache.ibatis.annotations.Mapper;
 
 /**
  * <p>
@@ -10,6 +11,7 @@ import com.yujian.content.model.pojo.CourseTeacher;
  *
  * @author yujian
  */
+@Mapper
 public interface CourseTeacherMapper extends BaseMapper<CourseTeacher> {
 
 }
