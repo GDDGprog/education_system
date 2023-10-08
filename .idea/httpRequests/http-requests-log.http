@@ -1,3 +1,169 @@
+POST http://localhost:63050/media/upload/coursefile
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="filedata"; filename="pig.jpg"
+Content-Type: application/octet-stream
+
+< C:\Desktop\file\photo\pig.jpg
+--WebAppBoundary--
+
+<> 2023-10-08T153754.200.json
+
+###
+
+POST http://localhost:63050/media/upload/coursefile
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="filedata"; filename="pig.jpg"
+Content-Type: application/octet-stream
+
+< C:\Desktop\file\photo\pig.jpg
+--WebAppBoundary--
+
+<> 2023-10-08T152914.500.json
+
+###
+
+POST http://localhost:63050/media/upload/coursefile
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="filedata"; filename="pig.jpg"
+Content-Type: application/octet-stream
+
+< C:\Desktop\file\photo\pig.jpg
+--WebAppBoundary--
+
+<> 2023-10-08T152824.500.json
+
+###
+
+POST http://localhost:63050/media/upload/coursefile
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="filedata"; filename="pig.jpg"
+Content-Type: application/octet-stream
+
+< C:\Desktop\file\photo\pig.jpg
+--WebAppBoundary--
+
+###
+
+POST http://localhost:63040/content/course/list?pageNo=1&pageSize=2
+Content-Type: application/json
+
+{
+  "auditStatus": "",
+  "courseName": "java",
+  "publishStatus": ""
+}
+
+<> 2023-10-08T151402.200.json
+
+###
+
+POST http://localhost:63050/media/upload/coursefile
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="filedata"; filename="pig.jpg"
+Content-Type: application/octet-stream
+
+< C:\Desktop\file\photo\pig.jpg
+--WebAppBoundary--
+
+<> 2023-10-08T151049.500.json
+
+###
+
+POST http://localhost:63050/media/upload/coursefile
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="filedata"; filename="pig.jpg"
+Content-Type: application/octet-stream
+
+< C:\Desktop\file\photo\pig.jpg
+--WebAppBoundary--
+
+<> 2023-10-08T150843.500.json
+
+###
+
+POST http://localhost:63050/media/upload/coursefile
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="filedata"; filename="1.jpg"
+Content-Type: application/octet-stream
+
+< C:\Desktop\file\photo\pig.jpg
+--WebAppBoundary--
+
+<> 2023-10-08T150353.500.json
+
+###
+
+POST http://localhost:63050/media/upload/coursefile
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="filedata"; filename="1.jpg"
+Content-Type: application/octet-stream
+
+< C:\Desktop\file\photo\pig.jpg
+--WebAppBoundary--
+
+<> 2023-10-08T150319.500.json
+
+###
+
+GET http://localhost:63010/content/course-category/tree-nodes
+
+<> 2023-10-07T215435.200.json
+
+###
+
+GET http://localhost:63010/content/course-category/tree-nodes
+
+<> 2023-10-07T215422.200.json
+
+###
+
+GET http://localhost:63010/content/course-category/tree-nodes
+
+<> 2023-10-07T215414.200.json
+
+###
+
+GET http://localhost:63010/content/course-category/tree-nodes
+
+<> 2023-10-07T215247.503.json
+
+###
+
+GET http://localhost:63010/content/course-category/tree-nodes
+
+<> 2023-10-07T215241.503.json
+
+###
+
+GET http://localhost:63110/system/dictionary/all
+Accept: application/json
+
+<> 2023-10-07T203134.200.json
+
+###
+
+GET http://localhost:63040/content/course-category/tree-nodes
+
+<> 2023-10-07T200444.200.json
+
+###
+
 POST http://localhost:63040/content/teachplan
 Content-Type: application/json
 
@@ -433,153 +599,6 @@ GET http://localhost:63040/content/course-category/tree-nodes
 Content-Type: application/json
 
 <> 2023-10-03T155608.200.json
-
-###
-
-GET http://localhost:63110/system/dictionary/all
-Accept: application/json
-
-<> 2023-10-03T105559.200.json
-
-###
-
-GET http://localhost:63110/system/dictionary/all
-Accept: application/json
-
-<> 2023-10-03T105548.200.json
-
-###
-
-GET http://localhost:63110/system/dictionary/all
-Accept: application/json
-
-<> 2023-10-03T105320.500.json
-
-###
-
-GET http://localhost:63110/system/dictionary/all
-Accept: application/json
-
-<> 2023-10-03T105249.500.json
-
-###
-
-POST http://localhost:63040/content/course/list?pageNo=1&pageSize=2
-Content-Type: application/json
-
-{
-  "auditStatus": "",
-  "courseName": "java",
-  "publishStatus": ""
-}
-
-<> 2023-10-02T230858.200.json
-
-###
-
-POST http://localhost:63040/content/course/list?pageNo=1&pageSize=2
-Content-Type: application/json
-
-{
-  "auditStatus": "",
-  "courseName": "java",
-  "publishStatus": ""
-}
-
-###
-
-POST http://{{content_host}}/content/course/list?pageNo=1&pageSize=2
-Content-Type: application/json
-
-{
-  "auditStatus": "",
-  "courseName": "java",
-  "publishStatus": ""
-}
-
-###
-
-POST http://localhost:63040/content/course/list?pageNo=1&pageSize=2
-Content-Type: application/json
-
-{
-  "auditStatus": "",
-  "courseName": "java",
-  "publishStatus": ""
-}
-
-<> 2023-10-02T221110.200.json
-
-###
-
-POST http://localhost:63040/content/course/list?pageNo=1&pageSize=2
-Content-Type: application/json
-
-{
-  "auditStatus": "",
-  "courseName": "java",
-  "publishStatus": ""
-}
-
-<> 2023-10-02T220711.200.json
-
-###
-
-POST http://localhost:63040/content/course/list?pageNo=1&pageSize=2
-Content-Type: application/json
-
-{
-    "auditStatus": "",
-    "courseName": "java",
-    "publishStatus": ""
-}
-
-<> 2023-10-02T220434.200.json
-
-###
-
-POST http://localhost:63040/content/course/list?pageNo=1&pageSize=2
-Content-Type: text/html;charset=utf-8
-
-{
-    "auditStatus":"",
-    "courseName":"java",
-    "publishStatus":""
-}
-
-<> 2023-10-02T220343.415.json
-
-###
-
-POST http://localhost:63040/course/list?pageNo=1&pageSize=2
-Content-Type: text/html;charset=utf-8
-
-{
-    "auditStatus":"",
-    "courseName":"java",
-    "publishStatus":""
-}
-
-<> 2023-10-02T220333.404.html
-
-###
-
-POST http://localhost:63040/course/course/list?pageNo=1&pageSize=2
-Content-Type: text/html;charset=utf-8
-
-{
-    "auditStatus":"",
-    "courseName":"java",
-    "publishStatus":""
-}
-
-<> 2023-10-02T220322.404.html
-
-###
-
-POST http://localhost:63040/course/list
-
-<> 2023-10-02T220008.404.html
 
 ###
 

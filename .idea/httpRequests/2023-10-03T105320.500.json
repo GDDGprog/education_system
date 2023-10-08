@@ -1,7 +1,0 @@
-{
-  "timestamp": "2023-10-03T02:53:20.411+00:00",
-  "status": 500,
-  "error": "Internal Server Error",
-  "message": "",
-  "path": "/system/dictionary/all"
-}
