@@ -12,6 +12,8 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.FilterInputStream;
+import java.util.ArrayList;
+import java.util.List;
 
 public class TestMinio {
 
@@ -79,5 +81,43 @@ public class TestMinio {
         if (source_md5.equals(target_md5)) {
             System.out.println("文件完整");
         }
+    }
+
+    //将分块文件上传至minio中
+    @Test
+    public void uploadChunk() throws Exception {
+        for (int i = 0; i < 291; i++) {
+            //上传文件的参数信息
+            UploadObjectArgs agrs = UploadObjectArgs.builder()
+                    .bucket("testbuckets")
+                    .filename("C:\\Desktop\\media\\chunk\\"+i)
+                    .object("chunk/"+i)
+                    .build();
+            //上传文件
+            minioClient.uploadObject(agrs);
+            System.out.println("第"+i+"块上传成功");
+        }
+    }
+    //调用minio中接口合并分块
+    @Test
+    public void mergeChunk() throws Exception {
+
+        List<ComposeSource> sources = new ArrayList<>();
+
+        for (int i = 0; i < 291; i++) {
+            ComposeSource source = ComposeSource.builder()
+                    .bucket("testbuckets")
+                    .object("chunk/"+i)
+                    .build();
+            sources.add(source);
+        }
+
+        ComposeObjectArgs composeObjectArgs = ComposeObjectArgs.builder()
+                .sources(sources)
+                .bucket("testbuckets")
+                .object("/merge/1.mp4")
+                .build();
+
+        minioClient.composeObject(composeObjectArgs);
     }
 }

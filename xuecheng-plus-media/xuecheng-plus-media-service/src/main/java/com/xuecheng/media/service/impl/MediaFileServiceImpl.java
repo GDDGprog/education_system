@@ -54,10 +54,6 @@ public class MediaFileServiceImpl implements MediaFileService {
     @Value("${minio.bucket.files}")
     private String bucket_mediafiles;
 
-    //存储视频文件
-    @Value("${minio.bucket.videofiles}")
-    private String bucket_video;
-
     @Override
     public PageResult<MediaFiles> queryMediaFiels(Long companyId, PageParams pageParams, QueryMediaParamsDto queryMediaParamsDto) {
 
@@ -79,7 +75,7 @@ public class MediaFileServiceImpl implements MediaFileService {
     }
 
     //根据扩展名获取mimeType
-    private String getMimeType(String extension) {
+    public String getMimeType(String extension) {
         if (extension == null){
             extension = "";
         }
@@ -99,7 +95,7 @@ public class MediaFileServiceImpl implements MediaFileService {
      * @param mimeType mimeType
      * @return 是否写入成功
      */
-    private boolean addMediaFilesToMinIo(String bucket_name,String localFilePath,String objectName,String mimeType){
+    public boolean addMediaFilesToMinIo(String bucket_name,String localFilePath,String objectName,String mimeType){
         try {
             UploadObjectArgs agrs = UploadObjectArgs.builder()
                     .bucket(bucket_name) //桶名
